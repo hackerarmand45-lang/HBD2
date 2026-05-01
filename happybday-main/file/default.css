@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('hackerarmand45-lang/HBD2/happybday-main/img.png');
+  background-image: url('../img.png');
   background-size: cover;
   background-repeat: no-repeat;
   font-size: 14px;
